@@ -15,9 +15,6 @@ namespace BaseDatos1
         public Form1()
         {
             InitializeComponent();
-        }
-        public void algo() { 
-        //Todo asfasdf
-        }
+        
     }
 }

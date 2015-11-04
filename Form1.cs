@@ -16,5 +16,8 @@ namespace BaseDatos1
         {
             InitializeComponent();
         }
+        public void algo() { 
+        //Todo asfasdf
+        }
     }
 }

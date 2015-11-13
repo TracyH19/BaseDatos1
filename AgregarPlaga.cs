@@ -10,11 +10,16 @@ using System.Windows.Forms;
 
 namespace BaseDatos1
 {
-    public partial class Principal : Form
+    public partial class AgregarPlaga : Form
     {
-        public Principal()
+        public AgregarPlaga()
         {
             InitializeComponent();
+
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
 
         }
     }

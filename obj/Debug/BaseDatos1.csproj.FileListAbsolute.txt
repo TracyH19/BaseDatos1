@@ -1,0 +1,3 @@
+D:\Codigo\BaseDatos1\bin\Debug\BaseDatos1.exe.config
+C:\Users\Prueba\Documents\Bases\bin\Debug\BaseDatos1.exe.config
+X:\Desktop\ProyectoBases\bin\Debug\BaseDatos1.exe.config

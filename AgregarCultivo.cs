@@ -10,11 +10,21 @@ using System.Windows.Forms;
 
 namespace BaseDatos1
 {
-    public partial class Principal : Form
+    public partial class AgregarCultivo: Form
     {
-        public Principal()
+        public AgregarCultivo()
         {
             InitializeComponent();
+
+        }
+
+        private void AgregarPlaga_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void AGREGAR_Click(object sender, EventArgs e)
+        {
 
         }
     }

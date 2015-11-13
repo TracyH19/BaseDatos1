@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace BaseDatos1
 {
-    public partial class Principal : Form
+    public partial class AgregarCultivoResumen : Form
     {
-        public Principal()
+        public AgregarCultivoResumen()
         {
             InitializeComponent();
 
